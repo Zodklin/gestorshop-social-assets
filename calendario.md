@@ -31,7 +31,6 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 | 24/08 seg | manhã | Estático azul (A)        | Frete grátis obrigatório na Shopee    | Nova regra empurra o custo de frete para o vendedor                      |
 | 24/08 seg | tarde | Carrossel                | Curva ABC e giro de estoque           | Dinheiro parado na prateleira                                            |
 | 25/08 ter | manhã | Reel tutorial            | Calculadora de viabilidade            | Cola a URL do anúncio e vê o lucro antes de anunciar                     |
-| 25/08 ter | tarde | Estático claro (B, foto) | Kits de produtos                      | Ticket médio maior vendendo junto o que já sai junto                     |
 | 26/08 qua | manhã | Carrossel                | Split payment (reforma tributária)    | IBS/CBS retido na liquidação: o caixa encolhe. Opcional 2027, depois não |
 | 26/08 qua | tarde | Estático escuro (D)      | Suporte humanizado                    | "Seu suporte virou caixa postal?" — atendimento que responde de verdade  |
 | 27/08 qui | manhã | Reel UGC                 | "3 sistemas viraram 1"                | —                                                                        |
@@ -53,6 +52,7 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                       | Link                                        | Curtidas |
 | ----- | --------- | ------------------------------------------ | ------------------------------------------- | -------- |
+| 25/08 | Estático  | Kits de produtos (claro B, foto)           | https://www.instagram.com/p/DcdlFfgH_D1/    | 0        |
 | 21/08 | Estático  | Etiqueta em lote (escuro D) — feed + story | https://www.instagram.com/p/DcThfIqGzqZ/    | 0        |
 | 20/08 | Estático  | Reprecificação urgente (lima)              | https://www.instagram.com/p/DcQ1dEcDlrr/    | 0        |
 | 19/08 | Estático  | Loja Online / Minha Loja                   | https://www.instagram.com/p/DcPFHg8DlHv/    | 5        |
