@@ -41,7 +41,6 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 | 29/08 sáb | tarde | Estático claro (B, foto) | PDV: balcão e online no mesmo estoque | Vendeu na loja física, baixou no marketplace                             |
 | 30/08 dom | manhã | Story                    | Dica rápida em card                   | —                                                                        |
 | 30/08 dom | tarde | Estático escuro (D)      | Promoção progressiva na Loja          | Leve 2 = 10%, leve 3 = 15%: ticket sobe sem queimar margem               |
-| 31/08 seg | manhã | Estático azul (A)        | Fechamento de mês: DRE simplificado   | Virada de mês é quando descobre que vendeu muito e lucrou pouco          |
 | 31/08 seg | tarde | Carrossel                | Contas a pagar sem planilha           | Importador + parcelas + anexo do boleto no mesmo lugar                   |
 | 01/09 ter | manhã | Reel tutorial            | NF-e automática                       | Reforma tributária exige nota em toda venda                              |
 | 01/09 ter | tarde | Estático lima (C)        | Simulador de frete no produto da Loja | Cliente vê o frete antes do carrinho, abandono cai                       |
@@ -52,6 +51,7 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                       | Link                                        | Curtidas |
 | ----- | --------- | ------------------------------------------ | ------------------------------------------- | -------- |
+| 31/08 | Estático  | Lucro real / DRE (claro B, foto + números) | https://www.instagram.com/p/DctNJRsH8JX/    | 0        |
 | 25/08 | Estático  | Kits de produtos (claro B, foto)           | https://www.instagram.com/p/DcdlFfgH_D1/    | 0        |
 | 21/08 | Estático  | Etiqueta em lote (escuro D) — feed + story | https://www.instagram.com/p/DcThfIqGzqZ/    | 0        |
 | 20/08 | Estático  | Reprecificação urgente (lima)              | https://www.instagram.com/p/DcQ1dEcDlrr/    | 0        |
