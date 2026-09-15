@@ -50,6 +50,9 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                       | Link                                        | Curtidas |
 | ----- | --------- | ------------------------------------------ | ------------------------------------------- | -------- |
+| 15/09 | Estático  | Importar XML da NF-e (lima C)              | https://www.instagram.com/p/DdTr7YJD-Si/    | 0        |
+| 15/09 | Estático  | PDV: balcão e online (claro B, foto)       | https://www.instagram.com/p/DdTr5H-jB0c/    | 0        |
+| 15/09 | Estático  | Split payment 2027 (azul A)                | https://www.instagram.com/p/DdTr2LgoK65/    | 0        |
 | 31/08 | Carrossel | Contas a pagar sem planilha (6 slides)     | https://www.instagram.com/p/Dct8hOun1J4/    | 0        |
 | 31/08 | Estático  | Lucro real / DRE (claro B, foto + números) | https://www.instagram.com/p/DctNJRsH8JX/    | 0        |
 | 25/08 | Estático  | Kits de produtos (claro B, foto)           | https://www.instagram.com/p/DcdlFfgH_D1/    | 0        |
