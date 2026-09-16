@@ -50,6 +50,8 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                       | Link                                        | Curtidas |
 | ----- | --------- | ------------------------------------------ | ------------------------------------------- | -------- |
+| 16/09 | Story     | Black Friday: 72 dias (escuro D, 9:16)     | https://www.instagram.com/stories/gestor_shop/3987635068361983388 | —        |
+| 16/09 | Estático  | Black Friday a 72 dias: curva ABC (escuro D, foto) | https://www.instagram.com/p/DdW7NwRm4_S/    | 0        |
 | 15/09 | Estático  | Importar XML da NF-e (lima C)              | https://www.instagram.com/p/DdTr7YJD-Si/    | 0        |
 | 15/09 | Estático  | PDV: balcão e online (claro B, foto)       | https://www.instagram.com/p/DdTr5H-jB0c/    | 0        |
 | 15/09 | Estático  | Split payment 2027 (azul A)                | https://www.instagram.com/p/DdTr2LgoK65/    | 0        |
