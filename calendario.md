@@ -49,6 +49,7 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                       | Link                                        | Curtidas |
 | ----- | --------- | ------------------------------------------ | ------------------------------------------- | -------- |
+| 21/09 | Estático  | Cubagem e peso no Mercado Livre (lima C, foto)            | https://www.instagram.com/p/DdjPEKHjZGf/    | 0        |
 | 17/09 | Estático  | Reputação × cancelamento por falta de estoque (laranja E) | https://www.instagram.com/p/DdY5wOUjIEJ/    | 0        |
 | 16/09 | Story     | Black Friday: 72 dias (escuro D, 9:16)     | https://www.instagram.com/stories/gestor_shop/3987635068361983388 | —        |
 | 16/09 | Estático  | Black Friday a 72 dias: curva ABC (escuro D, foto) | https://www.instagram.com/p/DdW7NwRm4_S/    | 0        |
