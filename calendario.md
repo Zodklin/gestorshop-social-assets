@@ -49,6 +49,7 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                       | Link                                        | Curtidas |
 | ----- | --------- | ------------------------------------------ | ------------------------------------------- | -------- |
+| 28/09 | Reel      | Apresentação do sistema: todos os canais em um lugar (Remotion, telas reais, 9:16) | https://www.instagram.com/reel/Dd1cNmgDB0O/ | —        |
 | 24/09 | Estático  | Atendimento humano × protocolo (escuro D, chat comparativo) | https://www.instagram.com/p/Ddq4GgdDeWN/    | 0        |
 | 24/09 | Carrossel | Produto de R$ 49 na Shopee dá lucro? Calculadora de viabilidade (claro B, foto; 6 slides) | https://www.instagram.com/p/Ddq2CPxF8QB/    | 0        |
 | 21/09 | Estático  | Cubagem e peso no Mercado Livre (lima C, foto)            | https://www.instagram.com/p/DdjPEKHjZGf/    | 0        |
