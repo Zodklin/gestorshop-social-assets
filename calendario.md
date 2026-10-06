@@ -49,6 +49,7 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                       | Link                                        | Curtidas |
 | ----- | --------- | ------------------------------------------ | ------------------------------------------- | -------- |
+| 06/10 | Estático  | Shopee: taxa fixa até R$ 79,99 sobe para R$ 4,50 (azul A, card com conta) | https://www.instagram.com/p/DeJ5Xe1jLqJ/ | —        |
 | 30/09 | Estático  | Iara: "Seu ERP te conta como foi ontem" (verde como cor principal, 3 cards) | https://www.instagram.com/p/Dd6zVB9FwvL/ | —        |
 | 28/09 | Reel      | Apresentação do sistema: todos os canais em um lugar (Remotion, telas reais, 9:16) | https://www.instagram.com/reel/Dd1cNmgDB0O/ | —        |
 | 24/09 | Estático  | Atendimento humano × protocolo (escuro D, chat comparativo) | https://www.instagram.com/p/Ddq4GgdDeWN/    | 0        |
