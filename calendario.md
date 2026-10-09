@@ -49,6 +49,7 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                       | Link                                        | Curtidas |
 | ----- | --------- | ------------------------------------------ | ------------------------------------------- | -------- |
+| 09/10 | Estático  | 10.10: vendeu na Shopee, ainda à venda no ML? Estoque único (lima C, card de estoque) | https://www.instagram.com/p/DeSPJfmDBQu/ | —        |
 | 09/10 | Estático  | Black Friday a 7 semanas: expedição aguenta o dobro? (claro B, foto) | https://www.instagram.com/p/DeRjWoFl2Iy/ | —        |
 | 06/10 | Estático  | Shopee: taxa fixa até R$ 79,99 sobe para R$ 4,50 (azul A, card com conta) | https://www.instagram.com/p/DeJ5Xe1jLqJ/ | —        |
 | 30/09 | Estático  | Iara: "Seu ERP te conta como foi ontem" (verde como cor principal, 3 cards) | https://www.instagram.com/p/Dd6zVB9FwvL/ | —        |
