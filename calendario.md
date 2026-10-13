@@ -47,44 +47,45 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 ## Publicado
 
-| Data  | Formato   | Tema                                       | Link                                        | Curtidas |
-| ----- | --------- | ------------------------------------------ | ------------------------------------------- | -------- |
-| 09/10 | Estático  | 10.10: vendeu na Shopee, ainda à venda no ML? Estoque único (lima C, card de estoque) | https://www.instagram.com/p/DeSPJfmDBQu/ | —        |
-| 09/10 | Estático  | Black Friday a 7 semanas: expedição aguenta o dobro? (claro B, foto) | https://www.instagram.com/p/DeRjWoFl2Iy/ | —        |
-| 06/10 | Estático  | Shopee: taxa fixa até R$ 79,99 sobe para R$ 4,50 (azul A, card com conta) | https://www.instagram.com/p/DeJ5Xe1jLqJ/ | —        |
-| 30/09 | Estático  | Iara: "Seu ERP te conta como foi ontem" (verde como cor principal, 3 cards) | https://www.instagram.com/p/Dd6zVB9FwvL/ | —        |
-| 28/09 | Reel      | Apresentação do sistema: todos os canais em um lugar (Remotion, telas reais, 9:16) | https://www.instagram.com/reel/Dd1cNmgDB0O/ | —        |
-| 24/09 | Estático  | Atendimento humano × protocolo (escuro D, chat comparativo) | https://www.instagram.com/p/Ddq4GgdDeWN/    | 0        |
-| 24/09 | Carrossel | Produto de R$ 49 na Shopee dá lucro? Calculadora de viabilidade (claro B, foto; 6 slides) | https://www.instagram.com/p/Ddq2CPxF8QB/    | 0        |
-| 21/09 | Estático  | Cubagem e peso no Mercado Livre (lima C, foto)            | https://www.instagram.com/p/DdjPEKHjZGf/    | 0        |
-| 17/09 | Estático  | Reputação × cancelamento por falta de estoque (laranja E) | https://www.instagram.com/p/DdY5wOUjIEJ/    | 0        |
-| 16/09 | Story     | Black Friday: 72 dias (escuro D, 9:16)     | https://www.instagram.com/stories/gestor_shop/3987635068361983388 | —        |
-| 16/09 | Estático  | Black Friday a 72 dias: curva ABC (escuro D, foto) | https://www.instagram.com/p/DdW7NwRm4_S/    | 0        |
-| 15/09 | Estático  | Importar XML da NF-e (lima C)              | https://www.instagram.com/p/DdTr7YJD-Si/    | 0        |
-| 15/09 | Estático  | PDV: balcão e online (claro B, foto)       | https://www.instagram.com/p/DdTr5H-jB0c/    | 0        |
-| 15/09 | Estático  | Split payment 2027 (azul A)                | https://www.instagram.com/p/DdTr2LgoK65/    | 0        |
-| 31/08 | Carrossel | Contas a pagar sem planilha (6 slides)     | https://www.instagram.com/p/Dct8hOun1J4/    | 0        |
-| 31/08 | Estático  | Lucro real / DRE (claro B, foto + números) | https://www.instagram.com/p/DctNJRsH8JX/    | 0        |
-| 25/08 | Estático  | Kits de produtos (claro B, foto)           | https://www.instagram.com/p/DcdlFfgH_D1/    | 0        |
-| 21/08 | Estático  | Etiqueta em lote (escuro D) — feed + story | https://www.instagram.com/p/DcThfIqGzqZ/    | 0        |
-| 20/08 | Estático  | Reprecificação urgente (lima)              | https://www.instagram.com/p/DcQ1dEcDlrr/    | 0        |
-| 19/08 | Estático  | Loja Online / Minha Loja                   | https://www.instagram.com/p/DcPFHg8DlHv/    | 5        |
-| 19/08 | Estático  | Iara, a IA que opera o ERP                 | https://www.instagram.com/p/DcPEaYljs6d/    | 4        |
-| 11/08 | Reel      | Lucro vs faturamento                       | https://www.instagram.com/reel/Db53EWYlZZI/ | 20       |
-| 17/07 | Reel      | Minha Loja no ar em minutos                | https://www.instagram.com/reel/Da5K_KjpT1Y/ | 24       |
-| 06/07 | Carrossel | Etiqueta em lote                           | https://www.instagram.com/p/DadEyxsFZ-z/    | 8        |
-| 03/07 | Carrossel | Estoque único multicanal                   | https://www.instagram.com/p/DaVHbYHFSlD/    | 5        |
-| 01/07 | Carrossel | Calculadora de viabilidade                 | https://www.instagram.com/p/DaQlIXuFd0L/    | 6        |
-| 26/06 | Reel      | Pra que pagar 3 sistemas                   | https://www.instagram.com/reel/DaDLLcKp3Bj/ | 32       |
-| 22/06 | Reel      | Como cadastrar produto                     | https://www.instagram.com/reel/DZ4zxu0J_r4/ | 5        |
-| 19/06 | Reel      | Integrar Mercado Livre                     | https://www.instagram.com/reel/DZxmRRSp55w/ | 4        |
-| 18/06 | Reel      | Pular de aba em aba                        | https://www.instagram.com/reel/DZvVe24px7i/ | 10       |
-| 12/06 | Estático  | TikTok Shop 6% → 10%                       | https://www.instagram.com/p/DZfqVgrIIKD/    | 2        |
-| 11/06 | Estático  | Vendeu o que já tinha acabado              | https://www.instagram.com/p/DZda3WQIMXA/    | 4        |
-| 08/06 | Estático  | NF-e automática                            | https://www.instagram.com/p/DZVAEx-oDdo/    | 4        |
-| 29/05 | Carrossel | Suporte humanizado                         | https://www.instagram.com/p/DY7ZM7yIEUY/    | 11       |
-| 27/05 | Carrossel | Iara, a IA do ERP                          | https://www.instagram.com/p/DY2IHv_EUGf/    | 14       |
-| 25/05 | Estático  | Decola vale ou não vale                    | https://www.instagram.com/p/DYxqRR9IKg3/    | 5        |
+| Data  | Formato   | Tema                                                                                      | Link                                                              | Curtidas |
+| ----- | --------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------- |
+| 13/10 | Estático  | Vendeu R$ 189,90, sobrou quanto? Lucro por pedido (escuro D, extrato de pedido; sem foto) | https://www.instagram.com/p/DecoUqxjFHU/                          | —        |
+| 09/10 | Estático  | 10.10: vendeu na Shopee, ainda à venda no ML? Estoque único (lima C, card de estoque)     | https://www.instagram.com/p/DeSPJfmDBQu/                          | —        |
+| 09/10 | Estático  | Black Friday a 7 semanas: expedição aguenta o dobro? (claro B, foto)                      | https://www.instagram.com/p/DeRjWoFl2Iy/                          | —        |
+| 06/10 | Estático  | Shopee: taxa fixa até R$ 79,99 sobe para R$ 4,50 (azul A, card com conta)                 | https://www.instagram.com/p/DeJ5Xe1jLqJ/                          | —        |
+| 30/09 | Estático  | Iara: "Seu ERP te conta como foi ontem" (verde como cor principal, 3 cards)               | https://www.instagram.com/p/Dd6zVB9FwvL/                          | —        |
+| 28/09 | Reel      | Apresentação do sistema: todos os canais em um lugar (Remotion, telas reais, 9:16)        | https://www.instagram.com/reel/Dd1cNmgDB0O/                       | —        |
+| 24/09 | Estático  | Atendimento humano × protocolo (escuro D, chat comparativo)                               | https://www.instagram.com/p/Ddq4GgdDeWN/                          | 0        |
+| 24/09 | Carrossel | Produto de R$ 49 na Shopee dá lucro? Calculadora de viabilidade (claro B, foto; 6 slides) | https://www.instagram.com/p/Ddq2CPxF8QB/                          | 0        |
+| 21/09 | Estático  | Cubagem e peso no Mercado Livre (lima C, foto)                                            | https://www.instagram.com/p/DdjPEKHjZGf/                          | 0        |
+| 17/09 | Estático  | Reputação × cancelamento por falta de estoque (laranja E)                                 | https://www.instagram.com/p/DdY5wOUjIEJ/                          | 0        |
+| 16/09 | Story     | Black Friday: 72 dias (escuro D, 9:16)                                                    | https://www.instagram.com/stories/gestor_shop/3987635068361983388 | —        |
+| 16/09 | Estático  | Black Friday a 72 dias: curva ABC (escuro D, foto)                                        | https://www.instagram.com/p/DdW7NwRm4_S/                          | 0        |
+| 15/09 | Estático  | Importar XML da NF-e (lima C)                                                             | https://www.instagram.com/p/DdTr7YJD-Si/                          | 0        |
+| 15/09 | Estático  | PDV: balcão e online (claro B, foto)                                                      | https://www.instagram.com/p/DdTr5H-jB0c/                          | 0        |
+| 15/09 | Estático  | Split payment 2027 (azul A)                                                               | https://www.instagram.com/p/DdTr2LgoK65/                          | 0        |
+| 31/08 | Carrossel | Contas a pagar sem planilha (6 slides)                                                    | https://www.instagram.com/p/Dct8hOun1J4/                          | 0        |
+| 31/08 | Estático  | Lucro real / DRE (claro B, foto + números)                                                | https://www.instagram.com/p/DctNJRsH8JX/                          | 0        |
+| 25/08 | Estático  | Kits de produtos (claro B, foto)                                                          | https://www.instagram.com/p/DcdlFfgH_D1/                          | 0        |
+| 21/08 | Estático  | Etiqueta em lote (escuro D) — feed + story                                                | https://www.instagram.com/p/DcThfIqGzqZ/                          | 0        |
+| 20/08 | Estático  | Reprecificação urgente (lima)                                                             | https://www.instagram.com/p/DcQ1dEcDlrr/                          | 0        |
+| 19/08 | Estático  | Loja Online / Minha Loja                                                                  | https://www.instagram.com/p/DcPFHg8DlHv/                          | 5        |
+| 19/08 | Estático  | Iara, a IA que opera o ERP                                                                | https://www.instagram.com/p/DcPEaYljs6d/                          | 4        |
+| 11/08 | Reel      | Lucro vs faturamento                                                                      | https://www.instagram.com/reel/Db53EWYlZZI/                       | 20       |
+| 17/07 | Reel      | Minha Loja no ar em minutos                                                               | https://www.instagram.com/reel/Da5K_KjpT1Y/                       | 24       |
+| 06/07 | Carrossel | Etiqueta em lote                                                                          | https://www.instagram.com/p/DadEyxsFZ-z/                          | 8        |
+| 03/07 | Carrossel | Estoque único multicanal                                                                  | https://www.instagram.com/p/DaVHbYHFSlD/                          | 5        |
+| 01/07 | Carrossel | Calculadora de viabilidade                                                                | https://www.instagram.com/p/DaQlIXuFd0L/                          | 6        |
+| 26/06 | Reel      | Pra que pagar 3 sistemas                                                                  | https://www.instagram.com/reel/DaDLLcKp3Bj/                       | 32       |
+| 22/06 | Reel      | Como cadastrar produto                                                                    | https://www.instagram.com/reel/DZ4zxu0J_r4/                       | 5        |
+| 19/06 | Reel      | Integrar Mercado Livre                                                                    | https://www.instagram.com/reel/DZxmRRSp55w/                       | 4        |
+| 18/06 | Reel      | Pular de aba em aba                                                                       | https://www.instagram.com/reel/DZvVe24px7i/                       | 10       |
+| 12/06 | Estático  | TikTok Shop 6% → 10%                                                                      | https://www.instagram.com/p/DZfqVgrIIKD/                          | 2        |
+| 11/06 | Estático  | Vendeu o que já tinha acabado                                                             | https://www.instagram.com/p/DZda3WQIMXA/                          | 4        |
+| 08/06 | Estático  | NF-e automática                                                                           | https://www.instagram.com/p/DZVAEx-oDdo/                          | 4        |
+| 29/05 | Carrossel | Suporte humanizado                                                                        | https://www.instagram.com/p/DY7ZM7yIEUY/                          | 11       |
+| 27/05 | Carrossel | Iara, a IA do ERP                                                                         | https://www.instagram.com/p/DY2IHv_EUGf/                          | 14       |
+| 25/05 | Estático  | Decola vale ou não vale                                                                   | https://www.instagram.com/p/DYxqRR9IKg3/                          | 5        |
 
 ## Aprendizado
 
