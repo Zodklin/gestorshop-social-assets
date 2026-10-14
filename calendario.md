@@ -49,6 +49,8 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                                                                      | Link                                                              | Curtidas |
 | ----- | --------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------- |
+| 14/10 | Reel      | Comissão da Shopee 2026: tabela CNPJ, + R$ 3 do CPF, exemplo R$ 49,90 (Remotion, 9:16, 29 s) | https://www.instagram.com/reel/Deelwb-E1Y7/                       | —        |
+| 14/10 | Story     | Comissão da Shopee mudou: salve a tabela (azul A, tabela CNPJ + bloco CPF)               | https://www.instagram.com/stories/gestor_shop/4007807010967734287 | —        |
 | 14/10 | Estático  | Etiqueta em lote: 80 pedidos, uma impressão só (verde como cor principal, foto em card) | https://www.instagram.com/p/DeeiMDFDetx/                          | —        |
 | 13/10 | Estático  | Vendeu R$ 189,90, sobrou quanto? Lucro por pedido (escuro D, extrato de pedido; sem foto) | https://www.instagram.com/p/DecoUqxjFHU/                          | —        |
 | 09/10 | Estático  | 10.10: vendeu na Shopee, ainda à venda no ML? Estoque único (lima C, card de estoque)     | https://www.instagram.com/p/DeSPJfmDBQu/                          | —        |
