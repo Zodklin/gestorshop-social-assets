@@ -49,6 +49,7 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                                                                      | Link                                                              | Curtidas |
 | ----- | --------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------- |
+| 14/10 | Estático  | Etiqueta em lote: 80 pedidos, uma impressão só (verde como cor principal, foto em card) | https://www.instagram.com/p/DeeiMDFDetx/                          | —        |
 | 13/10 | Estático  | Vendeu R$ 189,90, sobrou quanto? Lucro por pedido (escuro D, extrato de pedido; sem foto) | https://www.instagram.com/p/DecoUqxjFHU/                          | —        |
 | 09/10 | Estático  | 10.10: vendeu na Shopee, ainda à venda no ML? Estoque único (lima C, card de estoque)     | https://www.instagram.com/p/DeSPJfmDBQu/                          | —        |
 | 09/10 | Estático  | Black Friday a 7 semanas: expedição aguenta o dobro? (claro B, foto)                      | https://www.instagram.com/p/DeRjWoFl2Iy/                          | —        |
