@@ -49,6 +49,8 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                                                                      | Link                                                              | Curtidas |
 | ----- | --------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------- |
+| 20/10 | Story     | Black Friday: 8,69 mi de pedidos, quantas notas na mão? (azul A, 9:16)                   | https://www.instagram.com/stories/gestor_shop/4012070116201082205 | —        |
+| 20/10 | Estático  | Black Friday: 8,69 mi de pedidos, quantas notas na mão? NF-e do pedido (azul A, número grande) | https://www.instagram.com/p/DetvGk-oIzy/                          | —        |
 | 14/10 | Reel      | Comissão da Shopee 2026: tabela CNPJ, + R$ 3 do CPF, exemplo R$ 49,90 (Remotion, 9:16, 29 s) | https://www.instagram.com/reel/Deelwb-E1Y7/                       | —        |
 | 14/10 | Story     | Comissão da Shopee mudou: salve a tabela (azul A, tabela CNPJ + bloco CPF)               | https://www.instagram.com/stories/gestor_shop/4007807010967734287 | —        |
 | 14/10 | Estático  | Etiqueta em lote: 80 pedidos, uma impressão só (verde como cor principal, foto em card) | https://www.instagram.com/p/DeeiMDFDetx/                          | —        |
