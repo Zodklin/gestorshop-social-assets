@@ -49,6 +49,7 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                                                                                                                  | Link                                                              | Curtidas |
 | ----- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------- |
+| 23/10 | Carrossel | Envios Agora (ML entrega em 1 hora): o relógio até a moto é seu (escuro D, panorama contínuo 6 slides, rota pontilhada)               | https://www.instagram.com/p/De1kvlGDRXn/                          | —        |
 | 22/10 | Estático  | Black Friday: cliente perguntou, ficou sem resposta, comprou do vizinho. Iara responde perguntas do ML (claro B, foto Pexels 3807738) | https://www.instagram.com/p/DezBEbLDXyO/                          | —        |
 | 20/10 | Story     | Black Friday: 8,69 mi de pedidos, quantas notas na mão? (azul A, 9:16)                                                                | https://www.instagram.com/stories/gestor_shop/4012070116201082205 | —        |
 | 20/10 | Estático  | Black Friday: 8,69 mi de pedidos, quantas notas na mão? NF-e do pedido (azul A, número grande)                                        | https://www.instagram.com/p/DetvGk-oIzy/                          | —        |
