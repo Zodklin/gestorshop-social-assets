@@ -49,6 +49,8 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                                                                                                                  | Link                                                              | Curtidas |
 | ----- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------- |
+| 27/10 | Story     | Minha Loja: desconto para quem paga no Pix (verde como cor principal, checkout Pix × cartão, 9:16)                                    | https://www.instagram.com/stories/gestor_shop/4017148079362630796 | —        |
+| 27/10 | Estático  | Notas do Full: XML do ML e da Shopee baixado sozinho, entra nos relatórios e na exportação (azul A, lista de notas)                   | https://www.instagram.com/p/De_xs50DYUh/                          | —        |
 | 26/10 | Reel      | Kit na Black Friday: cada item baixa sozinho (Remotion, 9:16, 27 s, trilha própria groove 100 BPM; legendas de Shorts/TikTok entregues) | https://www.instagram.com/reel/De9X8wnjLMS/                       | —        |
 | 23/10 | Carrossel | Envios Agora (ML entrega em 1 hora): o relógio até a moto é seu (escuro D, panorama contínuo 6 slides, rota pontilhada)               | https://www.instagram.com/p/De1kvlGDRXn/                          | —        |
 | 22/10 | Estático  | Black Friday: cliente perguntou, ficou sem resposta, comprou do vizinho. Iara responde perguntas do ML (claro B, foto Pexels 3807738) | https://www.instagram.com/p/DezBEbLDXyO/                          | —        |
@@ -105,6 +107,12 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 - **19/08:** os dois primeiros posts saíram visualmente iguais (azul + branco + lima). Guilherme
   pediu variedade real. Virou regra dura na skill: rodar os cinco climas, gente em pelo menos
   2 de cada 5, e usar verde e laranja como cor principal às vezes.
+
+- **27/10:** o post "vendeu ≠ recebeu na Black Friday" foi **reprovado**: "seus últimos 10 posts
+  foram sobre black friday, dá uma inovada". A regra dos 21 dias olha só o tema exato e não pegou
+  o tema-mãe repetido. Agora a regra é contar o gancho dos últimos ~8 posts: se um gancho (BF,
+  Shopee, Iara...) aparece em mais de 2, ele fica fora. Recurso do sistema vale como tema, mesmo
+  sem ser novidade. Nuvemshop não é novidade, a integração existe há tempos.
 
 ## Pendências
 
