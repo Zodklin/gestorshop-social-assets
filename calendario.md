@@ -49,6 +49,7 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                                                                                                                  | Link                                                              | Curtidas |
 | ----- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------- |
+| 29/10 | Estático  | Seu caixa fecha em novembro? Saldo projetado das 4 semanas (laranja como cor principal, foto Pexels 5900079 + card do saldo) | https://www.instagram.com/p/DfE-c1xDa2I/                          | —        |
 | 27/10 | Story     | Minha Loja: desconto para quem paga no Pix (verde como cor principal, checkout Pix × cartão, 9:16)                                    | https://www.instagram.com/stories/gestor_shop/4017148079362630796 | —        |
 | 27/10 | Estático  | Notas do Full: XML do ML e da Shopee baixado sozinho, entra nos relatórios e na exportação (azul A, lista de notas)                   | https://www.instagram.com/p/De_xs50DYUh/                          | —        |
 | 26/10 | Reel      | Kit na Black Friday: cada item baixa sozinho (Remotion, 9:16, 27 s, trilha própria groove 100 BPM; legendas de Shorts/TikTok entregues) | https://www.instagram.com/reel/De9X8wnjLMS/                       | —        |
@@ -113,6 +114,10 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
   o tema-mãe repetido. Agora a regra é contar o gancho dos últimos ~8 posts: se um gancho (BF,
   Shopee, Iara...) aparece em mais de 2, ele fica fora. Recurso do sistema vale como tema, mesmo
   sem ser novidade. Nuvemshop não é novidade, a integração existe há tempos.
+
+- **29/10:** a primeira versão (lima C, só o card do saldo) foi trocada a pedido: "queria uma arte
+  com humano, o feed tá muito igual". Com vários posts seguidos só de card/tela, a foto de gente
+  passa a ser a escolha padrão, não exceção.
 
 ## Pendências
 
