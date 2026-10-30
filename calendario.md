@@ -49,6 +49,7 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                                                                                                                  | Link                                                              | Curtidas |
 | ----- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------- |
+| 30/10 | Estático  | Item trocado? O bipe avisa antes. Conferência por bipagem na Central de Expedição (escuro D, foto Pexels 7464230 + card da conferência 2/3) | https://www.instagram.com/p/DfHpy5cDZHo/                          | —        |
 | 29/10 | Estático  | Seu caixa fecha em novembro? Saldo projetado das 4 semanas (laranja como cor principal, foto Pexels 5900079 + card do saldo) | https://www.instagram.com/p/DfE-c1xDa2I/                          | —        |
 | 27/10 | Story     | Minha Loja: desconto para quem paga no Pix (verde como cor principal, checkout Pix × cartão, 9:16)                                    | https://www.instagram.com/stories/gestor_shop/4017148079362630796 | —        |
 | 27/10 | Estático  | Notas do Full: XML do ML e da Shopee baixado sozinho, entra nos relatórios e na exportação (azul A, lista de notas)                   | https://www.instagram.com/p/De_xs50DYUh/                          | —        |
