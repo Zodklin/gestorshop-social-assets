@@ -49,6 +49,7 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                                                                                                                  | Link                                                              | Curtidas |
 | ----- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------- |
+| 04/11 | Estático  | Chegou a coleção? Cadastre a nota inteira. Importar produtos por XML com grade de cor e tamanho (claro B, foto Pexels 7857530 + card da NF-e) | https://www.instagram.com/p/DfVD-WyjfCu/                          | —        |
 | 03/11 | Estático  | 11.11 (quarta): seu desconto ainda dá lucro? Calculadora de Viabilidade, preço mínimo sem prejuízo (lima C, card de descontos; sem foto) | https://www.instagram.com/p/DfR_ipPl8BX/                          | —        |
 | 30/10 | Estático  | Item trocado? O bipe avisa antes. Conferência por bipagem na Central de Expedição (escuro D, foto Pexels 7464230 + card da conferência 2/3) | https://www.instagram.com/p/DfHpy5cDZHo/                          | —        |
 | 29/10 | Estático  | Seu caixa fecha em novembro? Saldo projetado das 4 semanas (laranja como cor principal, foto Pexels 5900079 + card do saldo) | https://www.instagram.com/p/DfE-c1xDa2I/                          | —        |
