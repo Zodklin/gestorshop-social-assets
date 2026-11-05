@@ -49,6 +49,7 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                                                                                                                  | Link                                                              | Curtidas |
 | ----- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------- |
+| 05/11 | Reel      | 11.11 numa tela só: pedidos de todos os canais, estoque sincronizado, NF-e em lote e Central de Expedição (Remotion, 9:16, 51 s, telas reais do ERP, narração Laura/ElevenLabs cortada por cena, legenda palavra a palavra, trilha própria house 128 BPM) | https://www.instagram.com/reel/DfX6GVfAg15/                       | —        |
 | 04/11 | Estático  | Chegou a coleção? Cadastre a nota inteira. Importar produtos por XML com grade de cor e tamanho (claro B, foto Pexels 7857530 + card da NF-e) | https://www.instagram.com/p/DfVD-WyjfCu/                          | —        |
 | 03/11 | Estático  | 11.11 (quarta): seu desconto ainda dá lucro? Calculadora de Viabilidade, preço mínimo sem prejuízo (lima C, card de descontos; sem foto) | https://www.instagram.com/p/DfR_ipPl8BX/                          | —        |
 | 30/10 | Estático  | Item trocado? O bipe avisa antes. Conferência por bipagem na Central de Expedição (escuro D, foto Pexels 7464230 + card da conferência 2/3) | https://www.instagram.com/p/DfHpy5cDZHo/                          | —        |
@@ -121,6 +122,12 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 - **29/10:** a primeira versão (lima C, só o card do saldo) foi trocada a pedido: "queria uma arte
   com humano, o feed tá muito igual". Com vários posts seguidos só de card/tela, a foto de gente
   passa a ser a escolha padrão, não exceção.
+
+- **05/11:** reel narrado do 11.11. A voz sintética (Francisca) leu "Shopee" como "Shopê"; regra do
+  Guilherme: **a voz fala como se pronuncia ("Xópi"), a legenda mantém a grafia oficial**. Na mesma
+  tarde ele trocou pela locução da ElevenLabs (voz Laura), que eu cortei por cena nos silêncios reais.
+  O conector do Instagram deu timeout no Reel de 32 MB, mas o post entrou ~2 min depois: conferir com
+  `get_instagram_posts` antes de repetir, como já estava anotado.
 
 ## Pendências
 
