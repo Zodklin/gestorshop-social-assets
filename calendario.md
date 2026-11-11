@@ -49,6 +49,8 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                                                                                                                  | Link                                                              | Curtidas |
 | ----- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------- |
+| 11/11 | Story     | Curva ABC antes da reposição de Natal (mesma arte do feed)                                                                            | https://www.instagram.com/stories/gestor_shop/4028255422775774801 | —        |
+| 11/11 | Estático  | Antes de repor para o Natal, saiba quem vende. Curva ABC (azul A natalino: bolas penduradas, neve, gorro de Papai Noel no G do logo; card das classes com números de exemplo; sem foto) | https://www.instagram.com/p/DfnPOLNjQ61/                          | —        |
 | 10/11 | Estático  | Mora na sua cidade? Recebe hoje. Entrega local por cidade na Minha Loja (verde como cor principal, foto Pexels 6868618 + card do frete) | https://www.instagram.com/p/Dfj0aRDDWzx/                          | —        |
 | 05/11 | Reel      | 11.11 numa tela só: pedidos de todos os canais, estoque sincronizado, NF-e em lote e Central de Expedição (Remotion, 9:16, 51 s, telas reais do ERP, narração Laura/ElevenLabs cortada por cena, legenda palavra a palavra, trilha própria house 128 BPM) | https://www.instagram.com/reel/DfX6GVfAg15/                       | —        |
 | 04/11 | Estático  | Chegou a coleção? Cadastre a nota inteira. Importar produtos por XML com grade de cor e tamanho (claro B, foto Pexels 7857530 + card da NF-e) | https://www.instagram.com/p/DfVD-WyjfCu/                          | —        |
@@ -129,6 +131,11 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
   tarde ele trocou pela locução da ElevenLabs (voz Laura), que eu cortei por cena nos silêncios reais.
   O conector do Instagram deu timeout no Reel de 32 MB, mas o post entrou ~2 min depois: conferir com
   `get_instagram_posts` antes de repetir, como já estava anotado.
+
+- **11/11:** a primeira versão (azul A puro) pediu "clima mais natalino" e depois "um gorro na logo,
+  em cima do G". Em dezembro/Natal, decorar a peça (bolas nas cores da marca, neve, gorro vermelho
+  sobre o círculo do logo) foi aprovado, mesmo com o vermelho fora da paleta. O 11.11 ficou de fora
+  por já ter 2 posts recentes.
 
 ## Pendências
 
