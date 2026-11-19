@@ -49,6 +49,8 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                                                                                                                  | Link                                                              | Curtidas |
 | ----- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------- |
+| 19/11 | Story     | Falou uma vez. Ela lembra. Memórias da Iara (mesma arte do feed)                                                                    | https://www.instagram.com/stories/gestor_shop/4033909463609900226 | —        |
+| 19/11 | Estático  | Falou uma vez. Ela lembra. Memórias da Iara: margem mínima salva e aplicada na semana seguinte (escuro D com verde, foto Pexels 7679744 + card do chat com a Iara) | https://www.instagram.com/p/Df7Uy8rjYBV/                          | —        |
 | 18/11 | Story     | Etiqueta, nota e separação no mesmo clique (mesma arte do feed)                                                                     | https://www.instagram.com/stories/gestor_shop/4033132211087467928 | —        |
 | 18/11 | Estático  | Etiqueta, nota e separação no mesmo clique. Impressão em lote: etiqueta do marketplace + DANFE + lista de separação num PDF só (objeto sobre azul E, foto Pexels 4246120 + card de 128 pedidos selecionados) | https://www.instagram.com/p/Df4i33MDQMi/                          | —        |
 | 16/11 | Carrossel | Promoções do Mercado Livre dentro do Gestor Shop: ver convites, participar/sair, criar campanha/Leve 3 pague 2/cupom, desconto no anúncio (lima C, 6 slides, telas redesenhadas em CSS a partir do guia de teste da tela nova) | https://www.instagram.com/p/DfzdQl3jdwC/                          | —        |
@@ -141,6 +143,10 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
   em cima do G". Em dezembro/Natal, decorar a peça (bolas nas cores da marca, neve, gorro vermelho
   sobre o círculo do logo) foi aprovado, mesmo com o vermelho fora da paleta. O 11.11 ficou de fora
   por já ter 2 posts recentes.
+
+- **19/11:** "A Iara" em Inter 900 lê "A lara" (I maiúsculo igual a l; o subset do fontsource não
+  traz o `cv08`). Na headline grande, evitar "Iara" com I sem serifa: usar "Ela" com a etiqueta
+  IARA no topo, ou escrever IARA em caixa alta.
 
 ## Pendências
 
