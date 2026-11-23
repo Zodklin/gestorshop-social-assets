@@ -49,6 +49,8 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                                                                                                                  | Link                                                              | Curtidas |
 | ----- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------- |
+| 23/11 | Story     | O tamanho M acaba primeiro. Estoque mínimo por variação (mesma arte do feed) | https://www.instagram.com/stories/gestor_shop/4036878693913434144 | —        |
+| 23/11 | Estático  | O tamanho M acaba primeiro. Estoque mínimo por variação na semana da Black Friday (azul A, card de grade P/M/G/GG com REPOR; sem foto) | https://www.instagram.com/p/DgF37ALjWhM/                          | —        |
 | 19/11 | Story     | Falou uma vez. Ela lembra. Memórias da Iara (mesma arte do feed)                                                                    | https://www.instagram.com/stories/gestor_shop/4033909463609900226 | —        |
 | 19/11 | Estático  | Falou uma vez. Ela lembra. Memórias da Iara: margem mínima salva e aplicada na semana seguinte (escuro D com verde, foto Pexels 7679744 + card do chat com a Iara) | https://www.instagram.com/p/Df7Uy8rjYBV/                          | —        |
 | 18/11 | Story     | Etiqueta, nota e separação no mesmo clique (mesma arte do feed)                                                                     | https://www.instagram.com/stories/gestor_shop/4033132211087467928 | —        |
