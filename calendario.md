@@ -49,6 +49,7 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                                                                                                                  | Link                                                              | Curtidas |
 | ----- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------- |
+| 24/11 | Carrossel | Notícias da semana do e-commerce: Amazon 55 mi importados, abandono de carrinho até 82% (Blip), só 37,6% das PMEs esperam vender mais na BF (Serasa), moda e beleza e Pix entre jovens (Fiserv); cada slide com ponte "E no seu negócio" (escuro D, números grandes, 6 slides; sem foto) | https://www.instagram.com/p/DgIHXMbjRxm/                          | —        |
 | 23/11 | Story     | O tamanho M acaba primeiro. Estoque mínimo por variação (mesma arte do feed) | https://www.instagram.com/stories/gestor_shop/4036878693913434144 | —        |
 | 23/11 | Estático  | O tamanho M acaba primeiro. Estoque mínimo por variação na semana da Black Friday (azul A, card de grade P/M/G/GG com REPOR; sem foto) | https://www.instagram.com/p/DgF37ALjWhM/                          | —        |
 | 19/11 | Story     | Falou uma vez. Ela lembra. Memórias da Iara (mesma arte do feed)                                                                    | https://www.instagram.com/stories/gestor_shop/4033909463609900226 | —        |
@@ -149,6 +150,11 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 - **19/11:** "A Iara" em Inter 900 lê "A lara" (I maiúsculo igual a l; o subset do fontsource não
   traz o `cv08`). Na headline grande, evitar "Iara" com I sem serifa: usar "Ela" com a etiqueta
   IARA no topo, ou escrever IARA em caixa alta.
+
+- **24/11:** "social novidades" quer dizer **notícias do mundo do e-commerce**, não novidades do
+  Gestor Shop. Formato que funcionou: carrossel "O que mudou no e-commerce esta semana", com 4 notícias
+  conferidas na matéria original (E-Commerce Brasil), número grande, fonte com data e uma caixa
+  "E no seu negócio" ligando cada notícia a um recurso existente.
 
 ## Pendências
 
