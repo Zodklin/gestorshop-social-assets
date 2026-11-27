@@ -49,6 +49,7 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
 
 | Data  | Formato   | Tema                                                                                                                                  | Link                                                              | Curtidas |
 | ----- | --------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------- |
+| 27/11 | Carrossel | Notícias da Black Friday: buscas por ar-condicionado +87% (Google), R$ 23 mi em cupons da Shopee, 86 mil fraudes barradas (Serasa), volume +19% na temporada (DHL); cada slide com "E no seu negócio", último slide só pergunta, sem oferta (claro B com azul, 6 slides) | https://www.instagram.com/p/DgPrxzFjSSB/                          | —        |
 | 26/11 | Estático  | Dê um motivo para a primeira compra. Cupom só na primeira compra da Minha Loja, com pedido mínimo, limite por cliente e validade (claro B com laranja, foto Pexels 7679730 + card do cupom BEMVINDO 10% OFF) | https://www.instagram.com/p/DgNsWtcjSpx/                          | —        |
 | 25/11 | Story     | Black Friday Gestor Shop: 50% nas 3 primeiras faturas (mesma arte do feed) | https://www.instagram.com/stories/gestor_shop/4038339032395933940 | —        |
 | 25/11 | Estático  | Black Friday Gestor Shop: 50% de desconto nas 3 primeiras faturas, contratação até 27/11 23h59 (escuro D com lima, a partir do banner GSD-4044; "50%" gigante + 3 quadros; botão tirado a pedido: criativo não leva botão) | https://www.instagram.com/p/DgLD-MYjdl5/                          | —        |
@@ -158,6 +159,10 @@ Com o dobro de volume, a janela de não-repetição fica mais apertada — checa
   Gestor Shop. Formato que funcionou: carrossel "O que mudou no e-commerce esta semana", com 4 notícias
   conferidas na matéria original (E-Commerce Brasil), número grande, fonte com data e uma caixa
   "E no seu negócio" ligando cada notícia a um recurso existente.
+
+- **27/11:** o post "última chance: 50% termina hoje" foi **reprovado** antes de sair: "instagram não é
+  lugar de vender pro cliente, é lugar de comprar, posta notícias". Oferta direta (desconto, prazo,
+  "contrate") não é o padrão do perfil; notícia do e-commerce com a ponte "E no seu negócio" é.
 
 ## Pendências
 
